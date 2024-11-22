@@ -1,0 +1,4 @@
+{
+  "IdentityPoolName": "RideSharingIdentityPool",
+  "AllowUnauthenticatedIdentities": false
+}

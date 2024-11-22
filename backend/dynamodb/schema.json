@@ -1,0 +1,13 @@
+{
+  "TableName": "RideSharingTable",
+  "KeySchema": [
+    { "AttributeName": "RideID", "KeyType": "HASH" }
+  ],
+  "AttributeDefinitions": [
+    { "AttributeName": "RideID", "AttributeType": "S" }
+  ],
+  "ProvisionedThroughput": {
+    "ReadCapacityUnits": 5,
+    "WriteCapacityUnits": 5
+  }
+}
