@@ -1,6 +1,9 @@
-# AWS Project 
+# AWS-Ride-Sharing-App
 
 This project follows an AWS architecture using Amplify, Cognito, API Gateway, Lambda, and DynamoDB. It is implemented to create a ride-sharing application.
+
+## Website:
+https://github.com/samikshagariya/wildrydes-site.git
 
 ## Features
 - Hosting: Amplify
@@ -65,9 +68,6 @@ Develop a fully functional ride-sharing web application using various AWS servic
 7. **Deploy the Application**
    - Update API Gateway URLs in the frontend configuration.
    - Test end-to-end functionality by making ride requests via the app.
-
-8. **Clean Up Resources**
-   - Delete AWS resources (Amplify, Lambda, DynamoDB, API Gateway) to avoid unnecessary costs.
 
 
 ### **Unique Features**
